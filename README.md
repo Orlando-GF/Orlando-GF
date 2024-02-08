@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Olá! Eu sou o Olando Gomes!👋🏻
 [![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/orlando_gf_)
 
